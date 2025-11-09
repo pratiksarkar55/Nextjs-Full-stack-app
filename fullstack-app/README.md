@@ -109,7 +109,7 @@ fullstack-app/
    # MongoDB Connection
    MONGODB_URI=mongodb://localhost:27017/eventdb
    # Or for MongoDB Atlas:
-   # MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/eventdb
+   # MONGODB_URI=mongodb+srv://username:password
 
    # Cloudinary Configuration
    CLOUDINARY_CLOUD_NAME=your_cloud_name
